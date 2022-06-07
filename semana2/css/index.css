@@ -1,0 +1,43 @@
+h1{
+    /* font-family: apple-system, helvetica; */
+    font-size: 40px;
+    font-family:"jost";
+}
+.p1{
+    font-family: "Dank Mono", monospace;
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+[href]{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: rgb(238, 24, 24);
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.span-1{
+    text-decoration: line-through;
+    background-color: rgb(165, 61, 61);
+    text-transform: capitalize;
+    }
+.span-2{
+    text-decoration: line-through;
+    background-color: rgb(37, 205, 51);
+    text-transform: uppercase;
+    }
+.span-3{
+    text-decoration: line-through;
+    background-color: rgb(189, 230, 53);
+    text-transform: lowercase;
+    }
+ul{
+    background-color: rgb(58, 21, 222); 
+}
+h1{
+    background-color: rgb(248, 19, 19);
+}
+.p2{
+    text-decoration: none;
+}
